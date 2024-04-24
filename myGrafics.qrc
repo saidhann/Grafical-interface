@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tempLayout.png</file>
+        <file>darkholm.png</file>
+        <file>background.png</file>
+        <file>newBackground.png</file>
+        <file>termometer.png</file>
+        <file>digitalTermometer.png</file>
+        <file>powerButton.png</file>
+        <file>exitIcon.png</file>
+        <file>redX.png</file>
+    </qresource>
+</RCC>
